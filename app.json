@@ -1,7 +1,7 @@
 {
-    "name": "⦓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗢𝗠𝗘𝗡𝗧 ⦔",
+    "name": "『 𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗢𝗠𝗘𝗡𝗧 』",
     "description": "تنصيب بوتات ميوزك للتشغيل في المكالمات الصوتية",
-    "logo": "https://graph.org/%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%98-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7-06-29",
+    "logo": "https://graph.org/file/e4fe42e42e1f40c59e8a8.jpg",
     "keywords": [
     "python3",
     "telegram",
