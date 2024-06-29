@@ -54,12 +54,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="• اوامࢪ التشغيل •", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url="https://t.me/def_Zoka"
+        InlineKeyboardButton(text="• سوࢪس مومينت •", url="https://t.me/M0M2NT"
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/IC_X_K"
+            text="• مطوࢪ السورس •", url="https://t.me/T_G_A_R"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
@@ -74,12 +74,12 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس مومينت •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/IC_X_K"
+            text="• مطوࢪ السورس •", url="https://t.me/T_G_A_R"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
