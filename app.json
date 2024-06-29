@@ -1,7 +1,7 @@
 {
-    "name": "⦓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝐑𝐄𝐅𝐙 ⦔",
-    "description": "تنصيب بوتات القرآن الكريم للتشغيل في المكالمات الصوتية",
-    "logo": "https://graph.org/file/80571fd415d27b5bff6e9.jpg",
+    "name": "⦓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗢𝗠𝗘𝗡𝗧 ⦔",
+    "description": "تنصيب بوتات ميوزك للتشغيل في المكالمات الصوتية",
+    "logo": "https://graph.org/%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%98-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7-06-29",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/rev_fxx",
+        "value": "https://t.me/Sp_M0m2nt",
         "required": false
       }
     },
